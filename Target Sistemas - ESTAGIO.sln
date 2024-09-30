@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Target Sistemas - ESTAGIO", "Target Sistemas - ESTAGIO\Target Sistemas - ESTAGIO.csproj", "{2617C5BE-93DE-44D9-9FE5-566B91A81D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificaString", "VerificaString\VerificaString.csproj", "{2BDF65D1-7810-416D-847D-7B1F07EF7DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2617C5BE-93DE-44D9-9FE5-566B91A81D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2617C5BE-93DE-44D9-9FE5-566B91A81D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2617C5BE-93DE-44D9-9FE5-566B91A81D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2617C5BE-93DE-44D9-9FE5-566B91A81D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDF65D1-7810-416D-847D-7B1F07EF7DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDF65D1-7810-416D-847D-7B1F07EF7DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDF65D1-7810-416D-847D-7B1F07EF7DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDF65D1-7810-416D-847D-7B1F07EF7DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBACED54-A542-410D-80DE-9E89341BCB7C}
+	EndGlobalSection
+EndGlobal
